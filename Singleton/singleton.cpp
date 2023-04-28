@@ -25,7 +25,6 @@ int main() {
     else {
         std::cout << "Farklı örneklerdir" << std::endl;
     }
-
     instance1.showMessage();
     instance2.showMessage();
 
