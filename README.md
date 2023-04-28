@@ -15,7 +15,7 @@ This repository is designed as a resource that contains explanations of the "Gan
 
 ## Creational Patterns
 
- - [Singleton](https://raw.githubusercontent.com/Empera0/Gang-of-Four/master/img/gangoffour.png?token=GHSAT0AAAAAACBELIFW436CI2PXV2KHDIMGZCLLLAQ)
+ - [Singleton](https://raw.githubusercontent.com/Empera0/Gang-of-Four/master/img/gangoffour.png?token=GHSAT0AAAAAACBELIFW3GI5LSLHXKPS7CYUZCLLMCQ)
 ## Structural Patterns
 ## Behavioral Patterns:
 
