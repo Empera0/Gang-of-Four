@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Empera0/Gang-of-Four/master/img/gangoffour.png?token=GHSAT0AAAAAACBELIFX6HEE4KWFSZ3PPCSCZCLJ6DQ)
+![gangoffour](https://user-images.githubusercontent.com/63954402/235092635-1e450a6e-2acf-4ab5-827c-330ec5cc9ac9.png)
 
 *Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides*, also known as the **"Gang of Four,"** have made significant contributions to the field of software design patterns. In their book *"Design Patterns: Elements of Reusable Object-Oriented Software,"* published in 1994, these four individuals identified the **most important design patterns used in software design.**
 
