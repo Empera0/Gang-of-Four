@@ -18,3 +18,5 @@ This repository is designed as a resource that contains explanations of the "Gan
  - [Singleton](https://github.com/Empera0/Gang-of-Four/tree/master/Singleton)
 ## Structural Patterns
 ## Behavioral Patterns:
+
+![Logo](https://raw.githubusercontent.com/Empera0/Gang-of-Four/master/img/gangoffour.png?token=GHSAT0AAAAAACBELIFX6HEE4KWFSZ3PPCSCZCLJ6DQ)
