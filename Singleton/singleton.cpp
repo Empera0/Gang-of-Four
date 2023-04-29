@@ -20,10 +20,10 @@ int main() {
     Singleton& instance2 = Singleton::getInstance();
 
     if (&instance1 == &instance2) {
-        std::cout << "Aynı örnektir" << std::endl;
+        std::cout << "Same example" << std::endl;
     }
     else {
-        std::cout << "Farklı örneklerdir" << std::endl;
+        std::cout << "Different example" << std::endl;
     }
     instance1.showMessage();
     instance2.showMessage();
