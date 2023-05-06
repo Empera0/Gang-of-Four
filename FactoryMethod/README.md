@@ -1,3 +1,5 @@
+![4](https://user-images.githubusercontent.com/63954402/236631956-fa723734-1252-4bdd-85ef-66c4c9641683.png)
+
 For example, imagine that you run a pastry shop. Instead of making the pastries yourself, you have made an agreement with a pastry chain. The pastry chain continuously supplies you with pastries. But what is important to you is not how the pastries are made, but rather that the pastry chain delivers the pastries to you.
 
 This is exactly what the Factory Method design pattern does. When a client code wants to create an object instance, it sends a request to create the object via an interface without knowing the creation process of the classes. Then, this process takes place through the subclasses and the client code does not know from which subclass the created object was derived.
