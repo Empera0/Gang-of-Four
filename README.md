@@ -16,7 +16,11 @@ This repository is designed as a resource that contains explanations of the "Gan
 ## Creational Patterns
 
  - [Singleton](https://github.com/Empera0/Gang-of-Four/tree/master/Singleton)
- - [AbstractFactory](https://github.com/Empera0/Gang-of-Four/tree/master/AbstractFactory)
+  - [AbstractFactory](https://github.com/Empera0/Gang-of-Four/tree/master/AbstractFactory)
+  - [FactoryMethod](https://github.com/Empera0/Gang-of-Four/tree/master/FactoryMethod)
+ - [Builder](https://github.com/Empera0/Gang-of-Four/tree/master/Builder)
+  - [Prototype](https://github.com/Empera0/Gang-of-Four/tree/master/Prototype)
+
 ## Structural Patterns
 ## Behavioral Patterns:
 
