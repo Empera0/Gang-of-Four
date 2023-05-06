@@ -4,7 +4,7 @@
 
 The book includes **23 different design patterns** that solve recurring problems in software design, **categorized into three types: creational, structural, and behavioral.**
 
-**Creational patterns** are concerned with object creation. These patterns address issues related to creating objects, the instantiation process, and types of instantiation.
+**Creational patterns** are concerned with object creation. These patterns address issues related to creating objects, **the instantiation process, and types of instantiation.**
 
 **Structural patterns** are concerned with the composition of classes and objects. These patterns focus on topics such as assembling objects, combining classes, and defining interfaces.
 
