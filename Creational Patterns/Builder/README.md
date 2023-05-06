@@ -1,3 +1,5 @@
+![3](https://user-images.githubusercontent.com/63954402/236631939-6092727b-418e-4e4b-95c6-bc524b84f17b.png)
+
 This code implements the **Builder design pattern** to model pizza making. The Builder pattern provides an abstract class for constructing an object. Its concrete subclasses build the object by specifying its **different properties.**
 
 The program contains a Pizza class that represents a pizza product. It has private member variables for the type of dough, sauce, and topping used in the pizza. Public setter methods are provided to set these properties, and a showPizza() method displays the details of the pizza.

@@ -1,3 +1,5 @@
+![5](https://user-images.githubusercontent.com/63954402/236631968-e71014eb-dcc1-4cb5-a26a-40907c125db8.png)
+
 The Prototype design pattern is a pattern that allows creating a copy of an object. This pattern is useful in situations where object creation cost is high. It is commonly used in object-oriented programming languages such as C++.
 
 1 - Reduces object creation cost: The Prototype design pattern is useful in situations where the cost of **object creation is high.** With this pattern, you can minimize the cost of creating a new object.
