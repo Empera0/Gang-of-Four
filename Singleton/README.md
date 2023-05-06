@@ -1,4 +1,4 @@
-# Singleton
+![6](https://user-images.githubusercontent.com/63954402/236631979-f4235fcc-984c-48af-a3a6-0f987fba81f8.png)
 
 1-Singleton is a design pattern that **ensures a class has only one instance**,
 thus allowing the application to use only one instance at any point.
